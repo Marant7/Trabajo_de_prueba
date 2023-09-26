@@ -21,5 +21,10 @@ namespace Trabajo_de_prueba
         {
             ////holaaaaaaaa
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            //HOLA A TODO EL MUNDO ATTE: ING LANCHIPA PD: JALADOS
+        }
     }
 }
