@@ -26,5 +26,10 @@ namespace Trabajo_de_prueba
         {
             //HOLA A TODO EL MUNDO ATTE: ING LANCHIPA PD: JALADOS
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            // NO SE QUE ESCRIBIR ...............................................ddk
+        }
     }
 }
