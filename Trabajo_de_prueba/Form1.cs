@@ -36,5 +36,10 @@ namespace Trabajo_de_prueba
         {
             //XD
         }
+
+        private void progressBar2_Click(object sender, EventArgs e)
+        {
+            //que fue estoy probando
+        }
     }
 }
