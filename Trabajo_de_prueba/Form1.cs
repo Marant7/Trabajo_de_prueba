@@ -16,5 +16,10 @@ namespace Trabajo_de_prueba
         {
             InitializeComponent();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ////holaaaaaaaa
+        }
     }
 }
