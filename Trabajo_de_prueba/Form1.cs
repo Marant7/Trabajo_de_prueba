@@ -31,5 +31,10 @@ namespace Trabajo_de_prueba
         {
             // NO SE QUE ESCRIBIR ...............................................ddk
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //XD
+        }
     }
 }
