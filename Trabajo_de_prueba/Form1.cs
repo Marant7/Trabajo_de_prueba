@@ -36,10 +36,5 @@ namespace Trabajo_de_prueba
         {
             //XD
         }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-            //estoy probando desde mi pc 
-        }
     }
 }
